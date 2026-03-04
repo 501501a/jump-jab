@@ -10,4 +10,6 @@ public class JumpJsbApplication {
         SpringApplication.run(JumpJsbApplication.class, args);
     }
 
+
+
 }
